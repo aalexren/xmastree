@@ -11,4 +11,4 @@ Christmas tree in ascii
 
 Для пользователей Windows предлагается пройти по этой https://stackoverflow.com/a/41224335/7502538 и сначала установить `curses`
 
-![](https://gfycat.com/IgnorantNauticalAmericancrayfish)
+![](https://github.com/kot-mapku3/xmastree/blob/master/xmas.gif)
