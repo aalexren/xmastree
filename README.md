@@ -10,3 +10,5 @@ Christmas tree in ascii
 6. Наслаждайтесь  
 
 Для пользователей Windows предлагается пройти по этой https://stackoverflow.com/a/41224335/7502538 и сначала установить `curses`
+
+![]()
