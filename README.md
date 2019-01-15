@@ -6,7 +6,7 @@ Christmas tree in ascii
 2. Откройте терминал (open terminal).  
 3. Скачайте репозиторий с помощью `git clone https://github.com/kot-mapku3/xmastree/` (git clone)  
 4. Перейдите в папку *xmastree* (cd xmastree)  
-5. Запустите файл `python3 xmas1.py`  
+5. Запустите файл `python3 xmas.py`  
 (В случае отсутствия пакета termcolor установите его `pip3 install termcolor`)  
 6. Наслаждайтесь (congrats!)  
 
